@@ -5,7 +5,7 @@ const Landing = () => {
   return (
     <main className="page page-center">
       <h1>Landing Page</h1>
-      <p>Welcome. Choose where to go:</p>
+      <p>Welcome.</p>
       <div className="actions">
         <Link to="/register">Register</Link>
         <Link to="/login">Login</Link>
